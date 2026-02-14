@@ -2,7 +2,7 @@
 
 A novel molecular similarity framework that uses Mahalanobis distance metrics on Mol2Vec embeddings to identify structurally and electronically similar molecules.
 
-**Authors**: Roberto Bernal-Jaquez, Elliot Ridout-Buhl, Emiliano Montoya, Leon Alday-Toledo, Felipe Aparicio — UAM Cuajimalpa
+**Authors**: Roberto Bernal-Jaquez, Elliot Ridout-Buhl, Emiliano Montoya, Leon Alday-Toledo, Felipe Aparicio Platas — UAM Cuajimalpa
 
 ## Overview
 
