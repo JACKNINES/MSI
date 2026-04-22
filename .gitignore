@@ -34,3 +34,12 @@ output_grid/!*heatmap*.png
 !output_grid/win_rate_vs_ecfp4_tanimoto.csv
 !output_grid/heatmap_norm_deviation.png
 !output_grid/heatmap_by_domain.png
+
+# Revision work
+.ipynb_checkpoints/
+logs/
+output_benchmark/
+output_unimol/
+output_representations/
+output_grid/grid_results.csv
+*.npy
