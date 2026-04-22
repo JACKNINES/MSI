@@ -16,3 +16,21 @@ cache/
 # OS / editor
 .DS_Store
 .vscode/
+
+# Revision work — local caches and heavy outputs
+.ipynb_checkpoints/
+logs/
+output_benchmark/
+output_unimol/
+output_representations/
+output_grid/*.csv
+output_grid/!*heatmap*.png
+*.npy
+
+# Keep the summary artefacts under output_grid for paper provenance
+!output_grid/
+!output_grid/final_representation_x_metric.csv
+!output_grid/summary_by_family.csv
+!output_grid/win_rate_vs_ecfp4_tanimoto.csv
+!output_grid/heatmap_norm_deviation.png
+!output_grid/heatmap_by_domain.png
