@@ -65,9 +65,11 @@ DESCRIPTOR_TYPES = {
 """Continuous numeric representations. Natural pair: Mahalanobis / Cosine."""
 
 EMBEDDING_TYPES = {
-    "mol2vec":  {"kind": "mol2vec", "dim": 300},
-    "unimol":   {"kind": "unimol",  "dim": 512},
-    "hybrid":   {"kind": "hybrid",  "dim": 812},
+    "mol2vec":   {"kind": "mol2vec",   "dim": 300},
+    "unimol":    {"kind": "unimol",    "dim": 512},
+    "hybrid":    {"kind": "hybrid",    "dim": 812},
+    "chemberta":     {"kind": "hf_cached", "dim": 768, "tag": "chemberta"},
+    "chemberta_77m": {"kind": "hf_cached", "dim": 384, "tag": "chemberta_77m"},
 }
 """Learned continuous embeddings. Natural pair: Mahalanobis / Cosine."""
 
