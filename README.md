@@ -1,3 +1,19 @@
+[![Paper DOI](https://img.shields.io/badge/DOI-10.1002%2Fminf.70051-blue)](https://doi.org/10.1002/minf.70051)
+
+## Associated publication
+
+This repository contains the source code, input files, and Jupyter
+notebooks supporting:
+
+Bernal-Jaquez, R., Ridout Buhl, E., Montoya, E., Alday-Toledo, L.,
+and Aparicio, F. (2026). “MSI: A Mahalanobis-Based Molecular Similarity
+Index for High-Dimensional Embeddings.” *Molecular Informatics*,
+45(9), e70051.
+
+https://doi.org/10.1002/minf.70051
+
+
+
 # MSI — Mahalanobis Similarity Index
 
 A novel molecular similarity framework that uses Mahalanobis distance metrics on Mol2Vec embeddings to identify structurally and electronically similar molecules.
