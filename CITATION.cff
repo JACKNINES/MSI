@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use MSI, please cite the associated research article."
+title: "MSI — Mahalanobis Similarity Index"
+type: software
+authors:
+  - given-names: Roberto
+    family-names: Bernal-Jaquez
+    orcid: "https://orcid.org/0000-0001-7719-0197"
+  - given-names: Elliot
+    family-names: Ridout-Buhl
+    orcid: "https://orcid.org/0009-0007-7422-0101"
+  - given-names: Emiliano
+    family-names: Montoya
+    orcid: "https://orcid.org/0009-0009-6806-5891"
+  - given-names: León
+    family-names: Alday-Toledo
+  - given-names: Felipe
+    family-names: Aparicio-Platas
+    orcid: "https://orcid.org/0000-0002-7310-4033"
+repository-code: "https://github.com/JACKNINES/MSI"
+url: "https://github.com/JACKNINES/MSI"
+license: MIT
+
+preferred-citation:
+  type: article
+  title: "MSI: A Mahalanobis-Based Molecular Similarity Index for High-Dimensional Embeddings"
+  authors:
+    - given-names: Roberto
+      family-names: Bernal-Jaquez
+    - given-names: Elliot
+      family-names: Ridout-Buhl
+    - given-names: Emiliano
+      family-names: Montoya
+    - given-names: León
+      family-names: Alday-Toledo
+    - given-names: Felipe
+      family-names: Aparicio-Platas
+  journal: "Molecular Informatics"
+  volume: "45"
+  issue: "9"
+  year: 2026
+  doi: "10.1002/minf.70051"
